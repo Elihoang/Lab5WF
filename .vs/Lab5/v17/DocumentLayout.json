@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODED5\\webwf\\ThucHanh\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC508CD-AFD6-472A-A82F-C923CB03E7E2}|GUI\\GUI.csproj|d:\\coded5\\webwf\\thuchanh\\lab5\\gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC508CD-AFD6-472A-A82F-C923CB03E7E2}|GUI\\GUI.csproj|solutionrelative:gui\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC508CD-AFD6-472A-A82F-C923CB03E7E2}|GUI\\GUI.csproj|d:\\coded5\\webwf\\thuchanh\\lab5\\gui\\frmstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC508CD-AFD6-472A-A82F-C923CB03E7E2}|GUI\\GUI.csproj|solutionrelative:gui\\frmstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStudent.Designer.cs",
+              "DocumentMoniker": "D:\\CODED5\\webwf\\ThucHanh\\Lab5\\GUI\\frmStudent.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\frmStudent.Designer.cs",
+              "ToolTip": "D:\\CODED5\\webwf\\ThucHanh\\Lab5\\GUI\\frmStudent.Designer.cs",
+              "RelativeToolTip": "GUI\\frmStudent.Designer.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAgwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:50:14.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStudent.cs",
+              "DocumentMoniker": "D:\\CODED5\\webwf\\ThucHanh\\Lab5\\GUI\\frmStudent.cs",
+              "RelativeDocumentMoniker": "GUI\\frmStudent.cs",
+              "ToolTip": "D:\\CODED5\\webwf\\ThucHanh\\Lab5\\GUI\\frmStudent.cs",
+              "RelativeToolTip": "GUI\\frmStudent.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAApwIQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:02:58.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
